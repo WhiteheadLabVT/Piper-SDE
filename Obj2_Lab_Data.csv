@@ -1,0 +1,45 @@
+﻿colony,color,treatment,prop.seeds.removed,prop.seeds.redispersed,prop.seeds.cleaned
+1,White,2% amides,0.4,1,0
+1,Pink,Ethanol,1,0.4,0.2
+2,Pink,2% amides,0,1,0.2
+2,White,Ethanol,0.8,0,0.4
+3,White,2% amides,0,1,0
+3,Pink,Ethanol,0.6,1,0
+4,Pink,2% amides,0,1,0
+4,White,Ethanol,0.6,0.4,0.2
+5,White,2% amides,0,1,0.2
+5,Pink,Ethanol,0.4,1,0
+6,Pink,2% amides,1,0.8,0.2
+6,White,Ethanol,1,0,0.6
+7,White,2% amides,0,0.6,0.2
+7,Pink,Ethanol,0,0.2,0
+8,Pink,2% amides,0,1,0.2
+8,White,Ethanol,0.6,0,0.2
+9,White,2% amides,0,1,0
+9,Pink,Ethanol,0.6,0.8,0.2
+10,Pink,2% amides,0,1,0.2
+10,White,Ethanol,0.2,0,0.6
+11,White,2% amides,0,1,0
+11,Pink,Ethanol,0.8,0.6,0
+12,Pink,2% amides,1,0.8,0
+12,White,Ethanol,1,0,0
+13,White,2% amides,0.2,1,0.2
+13,Pink,Ethanol,1,0.4,0.2
+14,Pink,2% amides,1,1,0
+14,White,Ethanol,1,0,0.2
+15,White,2% amides,1,0.8,0
+15,Pink,Ethanol,1,0.2,0
+16,Pink,2% amides,0,1,0
+16,White,Ethanol,1,0,0.2
+17,White,2% amides,0,1,0
+17,Pink,Ethanol,1,0.6,0.2
+18,Pink,2% amides,0.4,0.8,0.2
+18,White,Ethanol,0.6,0.4,0.4
+19,White,2% amides,0.2,0.8,0
+19,Pink,Ethanol,1,0,0.4
+20,Pink,2% amides,0.6,1,0
+20,White,Ethanol,1,0.2,0.2
+21,White,2% amides,0,0.8,0
+21,Pink,Ethanol,1,0,0.4
+22,Pink,2% amides,0,0.4,0
+22,White,Ethanol,1,0.4,0.2
